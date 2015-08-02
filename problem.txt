@@ -1,0 +1,31 @@
+Online Blackjack Gaming Program
+
+Section 1: Introduction
+
+This document describes a Problem to develop an Online Blackjack Gaming Program using C Language
+
+Section 2: Project Summary
+
+Development of an Online Blackjack Gaming Program keeping in mind all features required for a comprehensive system. Some of the high-level functions proposed in this Gaming Program include multi-user functionality, Payment option, Security, etc. 
+
+Section 3: Features 
+
+	The following features are proposed to be incorporated in this Gaming Program:
+
+Multi-user functionality
+Payment Gateway
+Blackjack
+Multiple Security Layers due to payment functionality
+Data capture of history of player’s winnings, scores
+ 
+Section 4: Challenges
+
+	The following challenges are envisioned due to limited availability of resources:
+
+Limited graphic functionality will cause images to have low resolution
+Illegal functionalities cannot be detected
+Interface with Payment gateway may have challenges
+
+Section 4: Interfaces
+
+Payment Gateway will require interface with external websites which cannot be done.

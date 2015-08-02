@@ -1,0 +1,20 @@
+Each hand will result in one of the following events for the player:
+
+    Lose - the player's bet is taken by the dealer.
+    Win - the player wins as much as he bet. If you bet $10, you win $10 from the dealer (plus you keep your original bet, of course.)
+    Blackjack (natural) - the player wins 2 times the bet.
+    Push - the hand is a draw. The player keeps his bet, neither winning nor losing money.
+
+The aim of the game is to accumulate a higher point total than the dealer, but without going over 21. You compute your score by adding the values of your individual cards.
+
+The cards 2 through 10 have their face value, J, Q, and K are worth 10 points each, and the Ace is worth either 1 or 11 points (player's choice). 
+At the start of a blackjack game, the players and the dealer receive two cards each. The players' cards are normally dealt face up, while the dealer has one face down (called the hole card) and one face up.
+
+The best possible blackjack hand is an opening deal of an ace with any ten-point card. This is called a "blackjack", or a natural 21, and the player holding this automatically wins unless the dealer also has a blackjack. If a player and the dealer each have a blackjack, the result is a push for that player. If the dealer has a blackjack, all players not holding a blackjack lose.
+When all players have finished their actions, either decided to stand or busted, the dealer turns over his hidden hole card.
+
+If the dealer has a natural 21 (blackjack) with his two cards, he won't take any more cards. All players lose, except players who also have a blackjack, in which case it is a push - the bet is returned to the player.
+
+If the dealer doesn't have a natural, he hits (takes more cards) or stands depending on the value of the hand. Contrary to the player, though, the dealer's action is completely dictated by the rules. The dealer must hit if the value of the hand is lower than 17, otherwise the dealer will stand.
+If you're fairly sure that your hand will beat the dealer's, you can double your original bet. You're sometimes allowed to double down for any amount up to the original bet amount.
+When you've chosen to double down, you'll only get one more card from the dealer.
